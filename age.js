@@ -11,11 +11,14 @@
 // ""
 // undefined
 // null
+// False
+
 
 // Truthy
 // 0
 // ' '
-
+// []
+// {}
 
 const age = " ";
 if (age.length > 0) {
